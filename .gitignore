@@ -4,9 +4,7 @@ Thumbs.db
 
 /.vscode
 /node_modules
-/package-lock.json
 
 /app
-/coverage
 /dist
 /Development.provisionprofile
